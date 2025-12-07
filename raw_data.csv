@@ -1,0 +1,8 @@
+customer_id,name,age,country,purchase_amount,purchase_date
+1,Ana,,USA,250,2024-10-01
+2,John,34,USA,,
+3,Mary,28,UK,150,2024-09-15
+4,,45,India,300,2024-09-20
+5,Rahul,32,India,100,2024-10-05
+6,Sara,29,,200,2024-10-10
+7,Rita,27,Canada,,2024-10-02
